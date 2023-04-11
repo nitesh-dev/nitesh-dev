@@ -16,8 +16,12 @@
 
 ### I am always looking for contribution.
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@niteshdev547)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- ## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=@niteshdev547)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
+
+# 🏅 My certificates
+![nitesh-certificate-1](https://user-images.githubusercontent.com/112514266/231228751-d4ea9752-cec9-40c2-86cc-33f2574cac25.png)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
