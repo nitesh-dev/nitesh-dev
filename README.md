@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: <b>Task Planner App</b> <br>
+🔭 I’m currently working on: <b>Task Planner App & Music On</b> <br>
 👯 I’m looking to collaborate on <b>projects</b><br>
 🌱 I’m currently learning <b>Android</b>, <b>Game</b> and <b>Web development</b>
 
