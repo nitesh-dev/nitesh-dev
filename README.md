@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: <b>TyperBuddy</b> | [typerbuddy.flaxstudio.in](https://typerbuddy.com) <br>
+🔭 I’m currently working on: <b>TyperBuddy</b> | [typerbuddy.com](https://typerbuddy.com) <br>
 👯 I’m looking to collaborate on <b>projects</b><br>
 🌱 I’m currently learning <b>Android</b> and <b>Web development</b>
 
